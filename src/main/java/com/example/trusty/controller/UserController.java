@@ -3,7 +3,6 @@ package com.example.trusty.controller;
 import com.example.trusty.Dtos.RequestDtos.OwnerDto;
 import com.example.trusty.Dtos.ResponseDto.OwnerResponseDto;
 import com.example.trusty.service.Implementation.OwnerServiceImplementation;
-import com.example.trusty.service.interfaces.OwnerServiceInterface;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
